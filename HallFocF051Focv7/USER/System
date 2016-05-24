@@ -1,0 +1,4 @@
+#ifndef _CONTRL_H_
+#define _CONTRL_H_
+
+#include "system_define.h"
